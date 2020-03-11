@@ -1,4 +1,4 @@
-import { Platform, StyleSheet, View } from 'react-native';
+import { Platform, StyleSheet, View, Modal,AsyncStorage } from 'react-native';
 //import  Constants  from 'expo';
 import Constants from 'expo-constants';
 import React from 'react';
