@@ -3,6 +3,7 @@
     "name": "imagefeed",
     "slug": "imagefeed",
     "privacy": "public",
+    "description": "Image Feeed Application : The Instagram App like",
     "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
